@@ -3,6 +3,16 @@ It is simple layout which looks like a free instagram follower increasing site b
 
 **********************************************************
 
+How to use :
+> just host it on a hosting and change permission of login.txt to 777
+
+
+Happy Hacking 
+
+# 👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪 
+
+**********************************************************
+
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
 
 Scraper followers & following instagram ••__Hello Guy's i'am hack4lx Nice To See U again !._.!
